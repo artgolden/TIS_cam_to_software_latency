@@ -1,0 +1,1046 @@
+Debug command received: Ready type: dsDSLM in DSLM mode
+
+Confirmation command received: &s07E60A11103300080253
+
+Debug command received: time set to 2022.10.17-16:51:8.595
+
+Debug command received: Feedback from the stage: :E0,0
+
+Debug command received: :E1,0
+
+Debug command received: :E2,0
+
+Debug command received: :E3,129
+
+Debug command received: :E4,0
+
+Debug command received: :E5,0
+
+Debug command received: :E6,0
+
+Debug command received: :E7,0
+
+Debug command received: :E8,129
+
+Debug command received: :E0,0
+
+Debug command received: End of feedback.
+
+Task SendCommand started
+Command sended
+Task ConfirmationCommand started
+Confirmation command received: &l0FA00064
+
+Confirmation received for command: l0FA00064
+Task ConfirmationCommand finished
+Task SendCommand finished
+Debug command received: Test stage: 4000 100
+
+Printing from : Action after Task function
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :E2,0
+
+Debug command received: :P2,-217892
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-213077
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-210826
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-208666
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-206403
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-204100
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-201848
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-199716
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-197520
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-195181
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-192841
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-190611
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-188451
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-186174
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-183865
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-181618
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-179489
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-177268
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-174920
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-172583
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-170377
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+The thread 0x4efc has exited with code 0 (0x0).
+The thread 0x1b4 has exited with code 0 (0x0).
+The thread 0x254c has exited with code 0 (0x0).
+The thread 0x4e50 has exited with code 0 (0x0).
+Debug command received: :P2,-168216
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-165918
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-163606
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-161372
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-159248
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-157017
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-154663
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-152344
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-150158
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-147988
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+The thread 0x13b0 has exited with code 0 (0x0).
+The thread 0x3efc has exited with code 0 (0x0).
+Debug command received: :P2,-145682
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-143361
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-141141
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-139021
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-136773
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-134422
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-132104
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-129934
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-127759
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-125446
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-123127
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-120924
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-118803
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-116535
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-114184
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-111884
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-109730
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-107546
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-105230
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-102917
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-100729
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-98603
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-96317
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-93962
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-91673
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-89527
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-87332
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-85013
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-82697
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-80533
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-78407
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-76098
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-73740
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-71456
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-69319
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-67098
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-64764
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-62465
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-60316
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-58175
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-55853
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-53485
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-51214
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-49079
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-46838
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-44495
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-42199
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-40063
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-37903
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-35563
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-33197
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-30953
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-28822
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-26561
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-24223
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-21948
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-19836
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-17667
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-15317
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-12978
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-10772
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-8661
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-6412
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-4112
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,-1868
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,225
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,2364
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: Printing to stageport = :MST2,1,4000,1000
+
+Debug command received: 
+
+Debug command received: :P2,4672
+
+Debug command received: :E2,0
+
+Debug command received: End of feedback.
+
+Debug command received: 65535
+
+Debug command received: Feedback from the stage: :P2,6979
+
+Debug command received: End of feedback.
